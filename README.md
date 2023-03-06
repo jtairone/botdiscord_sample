@@ -8,8 +8,12 @@ npm i
 ```
 Criar o arquivo .env (usar .env.sample)
 TOKEN, CLIENT_ID e GUILD_ID 
-e alimentar seus respectivos valores
 
+TOKEN e o CLIENT_ID consegue no link abaixa apos criar o novo aplicativo e depois tornalo um bot e gerar o link com as permissões pra adicionar seu servidor no discord
+https://discord.com/developers/applications
+
+O GUILD_ID consegue clicando no seu servidor com o direito do mouse e clicando em Copiar ID
+(Modo desenvolvedor tem estar ativo no discord)
 ## Inicializar
 
 ```bash
